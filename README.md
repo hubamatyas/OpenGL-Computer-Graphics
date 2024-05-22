@@ -8,5 +8,5 @@ Run GLSL code here https://uclcg.github.io/uclcg/ by uploading the raw files in 
 ## Rasterisation
 ![Rasterisation](outputs/rasterisation.png)
 
-## Path Tracing
+## Path Tracing
 ![Path Tracing](outputs/path-tracing.png)
